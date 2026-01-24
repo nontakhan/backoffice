@@ -1,0 +1,19 @@
+# Ignore debug files
+debug_test.php
+
+# Uploads
+uploads/photos/*
+!uploads/photos/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

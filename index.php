@@ -202,7 +202,7 @@ $infoMessage = $messages[$msg] ?? '';
                     <input type="checkbox" name="remember" class="form-check-input">
                     <span class="form-check-label">จดจำการเข้าสู่ระบบ</span>
                 </label>
-                <a href="#">ลืมรหัสผ่าน?</a>
+                <a href="forgot_password.php">ลืมรหัสผ่าน?</a>
             </div>
             
             <button type="submit" class="btn btn-primary w-100">
